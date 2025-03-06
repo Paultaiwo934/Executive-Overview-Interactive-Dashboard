@@ -1,4 +1,4 @@
-# Executive-Overview-Interactive-Dashboard 
+# Executive Overview Interactive Dashboard 
 
 <h2>Description</h2>
 This project involves the creation of an interactive and data-driven executive overview dashboard in Tableau, designed to analyze sales and profitability data for a furniture manufacturer over a four-year period from January 2014 to December 2017. 
